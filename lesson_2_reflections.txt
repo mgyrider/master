@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-    会多了一个.git文件夹，因为只有初始化以后我们才能提交改动的文件。
+    会多了一个.git文件夹，因为只有初始化以后我们才能提交改动的文件
 
 
 How is the staging area different from the working directory and the repository?
