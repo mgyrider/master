@@ -13,6 +13,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    使用分支可以做同时做多个尝试，实验性的版本。
 
 How do the diagrams help you visualize the branch structure?
 
