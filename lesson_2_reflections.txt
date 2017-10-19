@@ -26,4 +26,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    自动合并时候没有冲突的情况下，方便快捷，缺点是发生冲突时，不知道保留哪个版本。
+    始终手动合并可以解决合并冲突，缺点是一直这样就太繁琐。
 
