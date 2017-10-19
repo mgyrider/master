@@ -16,9 +16,13 @@ organized? How would branches help?
     使用分支可以做同时做多个尝试，实验性的版本。
 
 How do the diagrams help you visualize the branch structure?
+    git log --graph --oneline 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    合并时，先要检出一个分支，合并后，另一个分支的标签会复制到检出的分支上。
+    合并成功后，通过git log可以看到另一个分支上的标签。
+    删除分支用 git branch -d  后跟分支名
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
