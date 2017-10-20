@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    当需要将代码分享给别人，或换了一个工作环境时，或者为了备份代码。
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
