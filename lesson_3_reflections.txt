@@ -18,12 +18,13 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    拥有远程分支的本地副本，可以当远程分支发生改变时，及时发现是否要和本地的master分支合并。
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+   显然使用Git和GitHub更容易，没有Git无法对版本进行控制，没有GitHub不方便多人一起协作。
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
